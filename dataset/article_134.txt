@@ -1,0 +1,25 @@
+<ARTICLE>
+<DOC_ID>ARTICLE_134</DOC_ID>
+<TITLE>Vaksin COVID-19 Dipastikan Aman Sebelum Diberikan Kepada Masyarakat</TITLE>
+<TIME>07 Oktober 2020</TIME>
+<LINK>https://covid19.go.id/p/berita/vaksin-covid-19-dipastikan-aman-sebelum-diberikan-kepada-masyarakat</LINK>
+<CONTENT>
+
+Foto: Muchlis Jr - Biro Pers Sekretariat Presiden
+JAKARTA - Pemerintah menargetkan vaksin COVID-19 tersedia dan terjangkau untuk masyarakat pada tahun 2021 mendatang. Saat ini pemerintah pun sedang berupaya menyelesaikan uji klinis vaksin yang nantinya akan disuntikkan pada jutaan masyarakat Indonesia.
+Saat ini Indonesia melalui Bio Farma - Sinovac dan proses uji klinis fase 3 di Bandung. Kedua kerjasama Kimia Farma - G42 Uni Emirat Arab dimana uji klinis fase 3 dengan target subyek 22 ribu orang. Dan ketiga kerjasama PT Kalbe Farma - Genexine Korea sedang uji klinis fase 1 dan 2A di Korea dengan 60 subyek.
+Juru Bicara Satgas Penanganan COVID-19 Prof Wiku Adisasmito memastikan vaksin yang akan disuntikkan masyarakat sudah melalui beberapa tahap uji klinis hingga dinyatakan aman. Baik itu yang dikembangkan kerjasama dengan negara lain maupun Vaksin Merah Putih yang sedang dikembangkan pemerintah.
+"Vaksin yang nantinya masuk ke Indonesia harus dipastikan secara data dan penelitian aman bagi masyarakat. Pengembangan vaksin umumnya butuh waktu dan proses yang cukup panjang," ungkapnya saat jumpa pers perkembangan penanganan COVID-19 di Istana Kepresidenan, Selasa (6/10/2020) yang disiarkan kanal YouTube Sekretariat Presiden.
+Tahapannya dimulai dari penelitian dasar dimana ilmuwan menelusuri mekanisme potensial berdasarkan ilmu sains biomedis. Kemudian vaksin akan dibuat dalam jumlah terbatas untuk bisa memasuki uji praklinis dan uji klinis tahap 1, 2 dan 3.
+Secara rincinya dalam tahap uji praklinis dilakukan studi sel di laboratorium yaitu studi in Vitro dan in Vivo untuk mengetahui keamanan bila diujikan pada manusia. Setelah itu baru memasuki uji fase 1 dimana vaksin dibert pada sekelompok kecil orang untuk melihat respon imunitas dan kekebalan yang dipicu.
+"Pada fase 2, vaksin diberikan pada ratusan orang sehingga para ilmuwan dapat mempelajari lebih lanjut tentang dosis yang tepat. Pada fase 3, vaksin diberikan pada ribuan orang untuk memastikan keamanannya termasuk efek samping yang jarang terjadi dan keefektifan ya. Uji coba ini melibatkan kelompok kontrol yang diberi placebo, artinya kelompok kontrol adalah masyarakat yang disuntik tapi tidak dengan vaksin," Wiku menguraikan.
+Melalui proses uji klinis ilmuwan dapat mengetahui apakah vaksin menimbulkan efek samping atau tidak, mengingat belum ada vaksin COVID-19 yang lulus uji klinis tahap 3, kewaspadaan dan monitoring terhadap keamanan vaksin terus dilakukan.
+Wiku juga menjelaskan terkait risiko Antibody-dependant enhancement (ADE) adalah suatu kondisi reaksi tubuh karena antibodi tubuh melawan antigen yang berupa virus atau bakteri. Terkait efek samping ini sejauh ini hanya ditemukan pada penyakit dengue dan sejenisnya dan tidak pada virus lain. Fenomena ADE hanya terlihat pada Mers, Sars, Ebola, HIV, semata-mata ditemukan in silico dan in Vitro, dan tidak menggambarkan fenomena di manusia.
+Fenomena ADE untuk Sars Cov-2 katanya sudah diselidiki sejak percobaan praklinis hingga dinyatakan aman dan baik. Namun karena adanya perbedaan antara hewan percobaan dan manusia, tentu risiko ADE pada manusia harus diinvestigasi. Inilah pentingnya uji klinis melalui semua fase, jika sudah lolos fase 3 dan memberikan laporan yang baik, maka kandidat vaksin bisa meminta persetujuan edar dari lembaga pengawas. Pemerintah dalam hal ini tidak akan terburu-buru dan berpegang teguh pada data hasil uji," tegas Wiku.
+Diketahui dari sumber WHO.Draft Landscape of COVID-19 candidate vaccines yang diperbaharui per 2 Oktober sudah ada 10 vaksin yang masuk ke dalam tahap 3 uji klinis. Yaitu Sinovac, Wuhan Institute of Biological Product atau Sinopharm, Johnson Pharmaceutical Companies, Kansino Biologic Incorporated atau Beijing Institute of Biotechnology, Gamalea Research Institute, Beyond Tech atau Fossum Pharmaficer, University of Oxford atau Astrazeneka, Novavac, Moderna atau NIAID dan Beijing Institute of Biological Product atau Sinopharm.
+Jakarta, 6 Oktober 2020
+Tim Komunikasi Komite Penanganan Corona Virus Disease 2019 (COVID-19) dan Pemulihan Ekonomi Nasional
+
+(ISTA/QQ/VJY)
+</CONTENT>
+</ARTICLE>

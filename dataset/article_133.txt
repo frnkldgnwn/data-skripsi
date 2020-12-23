@@ -1,0 +1,27 @@
+<ARTICLE>
+<DOC_ID>ARTICLE_133</DOC_ID>
+<TITLE>Kesembuhan di Indonesia terus Meningkat</TITLE>
+<TIME>07 Oktober 2020</TIME>
+<LINK>https://covid19.go.id/p/berita/kesembuhan-di-indonesia-terus-meningkat</LINK>
+<CONTENT>
+
+Foto: Muchlis Jr - Biro Pers Sekretariat Presiden
+JAKARTA - Kesembuhan Indonesia berada di peringkat 19 dunia dari 216 negara dengan jumlah kesembuhan 232.593 orang. Peringkat jumlah kasus berada di 137 dengan 1.120 per 1 juta penduduk. Peringkat kematian Indonesia menduduki 102 dengan kematian 41 per 1 juta penduduk.
+Data Kementerian Kesehatan per 6 Oktober 2020, kasus aktif ada 63.365 kasus atau 20,4% rata-rata dunia 21,8%. Penambahan kasus positif 4.056 kasus. Jumlah kasus sembuh kumulatif 236.437 atau 76% dimana kasus sembuh rata-rata dunia 75,2%. Pada kasus meninggal 11.374 atau 3,7% dibandingkan rata-rata dunia 2,92%.
+"Kesembuhan ini harus terus ditingkatkan. Jangan berpuas diri dengan peringkat yang baik. Jika dilihat pekan pertama Oktober ini, jumlah orang diperiksa sudah mencapai 70,13% dari target WHO. Kita kejar terus agar bisa mencapai 100% target WHO yakni 267 ribu orang per minggu," jelasnya saat jumpa pers perkembangan penanganan COVID-19 yang disiarkan kanal YouTube Sekretariat Presiden, Selasa (6/10/2020).
+Secara perkembangan mingguan, Wiku mengkonfirmasi ada 5 provinsi tertinggi mengalami kenaikan kesembuhan. Diantaranya Sulawesi Selatan naik 894 (793 -> 1.687), Riau naik 471 (1.177 -> 1.648), Sumatera Utara naik 294 (811 -> 1.105), Sumatera Selatan naik 207 (261 -> 468) dan Bali naik 180 (649 -> 829). Meski demikian jumlah kesembuhan secara nasional menurun 0,9%. Untuk persentase kesembuhan tertinggi mingguan berada di Kalimantan Utara (87,56%), Maluku Utara (87,28%), Kalimantan Selatan (85,59%), Jawa Timur (85,53%) dan Gorontalo (83,77%).
+Dalam penanganan COVID-19, Wiku mengatakan yang menjadi tantangan ialah positivity rate. Pada September lalu angkanya mencapai 16,11% atau tiga kali lebih besar dari standar yang ditetapkan WHO. Angka ini harus ditekan dengan perbanyak lakukan testing dan disiplin protokol kesehatan agar tidak terjadi penularan sehingga positivity rate menurun.
+Perkembangan kasus positif COVID-19 secara mingguan terlihat lebih baik karena terjadi penurunan kasus 7,4%. Pekan ini 5 provinsi dengan kenaikan kasus tertinggi berbeda dari pekan sebelumnya. Pekan ini 5 provinsi itu ialah Maluku (152), Riau (131), Gorontalo (107), Sulawesi Barat (99) dan Aceh (97).
+Kasus kematian secara mingguan juga mengalami penurunan 7,7% dibandingkan dengan pekan sebelumnya. Pada pekan ini kenaikan kematian tertinggi berada di Kalimantan Timur (35), Jawa Barat (25), Sumatera Barat (20), Aceh (17) dan Papua (15).
+Lalu melihat peta zonasi risiko secara mingguan, menunjukkan zona merah (tinggi) sebaran daerahnya turun dari 62 menjadi 54, zona oranye (sedang) meningkat dari 305 menjadi 307, zona kuning (rendah) naik dari 112 menjadi 121. Perkembangan zona kuning kata Wiku terlihat baik karena banyak daerah yang ada di zona merah dan oranye bergeser ke zona kuning.
+Sedangkan zona hijau wilayah tidak ada kasus baru menurun dari 19 menjadi 17 kabupaten/kota. Begitu juga daerah tidak terdampak juga menurun dari 16 menjadi 15 kabupaten/kota. "Wilayah tidak terdampak dan tidak ada kasus baru harus dijaga bahkan ditingkatkan jumlahnya," lanjut Wiku. 
+Satgas Penganangan COVID-19 mendorong 10 daerah zona merah yang indeks skor risikonya mendekati zona oranye. Yakni Tabalong, Kota Bandung, Jakarta Utara, Tanjung Jabung Barat, Kota Tebing Tinggi, Tapanuli Selatan, Polewali Mandar, Kotawaringin Barat, Kota Tanjung Balai dan Aceh Besar.
+Juga ada 10 daerah zona oranye yang indeks skornya mendekati zona kuning. Diantaranya Maybrat, Tambrauw, Puncak Jaya, Jayawijaya, Ende, Tapanuli Utara, Mamuju Tengah, Sarmi, Muna Barat dan Lombok Barat.
+Sejauh ini sudah ada 36 kabupaten/kota yang berhasil menurunkan risiko dari zona merah ke zona oranye. Dan ada 30 kabupaten/kota berhasil menurunkan risiko dari zona oranye menjadi kuning.
+Perhatian khusus juga diberikan pada daerah penyumbang kasus positif atau kematian tertinggi diantaranya Kota Medan, Jakarta Pusat, Kota Bekasi, Kota Depok, Kota Semarang, Kota Surabaya, Kota Banjarmasin, Kota Makassar, Kota Denpasar, Kota Jayapura dan Kota Banda Aceh.
+Jakarta, 6 Oktober 2020
+Tim Komunikasi Komite Penanganan Corona Virus Disease 2019 (COVID-19) dan Pemulihan Ekonomi Nasional
+
+(ISTA/QQ/VJY)
+</CONTENT>
+</ARTICLE>

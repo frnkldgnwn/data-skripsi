@@ -1,0 +1,12 @@
+<ARTICLE>
+<DOC_ID>ARTICLE_119</DOC_ID>
+<TITLE>Gempa M 3,6 Guncang Malang</TITLE>
+<TIME>06 Oktober 2020</TIME>
+<LINK>https://news.detik.com/berita-jawa-timur/d-5202700/gempa-m-36-guncang-malang?single=1</LINK>
+<CONTENT>
+
+Selain Lumajang, gempa juga mengguncang Malang. Gempa berkekuatan M 3,6 itu terjadi pukul 21.45 WIB.
+Berdasarkan laman @BMKG yang dilihat detikcom, Selasa (6/10/2020), gempa Malang berada pada koordinat 9.63 Lintang Selatan, 112.90 Bujur Timur.
+Pusat gempa berada di laut 169 km tenggara Kabupaten Malang dengan kedalaman 10 km. Gempa dirasakan dengan skala MMI (Modified Mercalli Intensity) II di Turen, Malang. Skala MMI II artinya getaran dirasakan oleh beberapa orang atau benda-benda ringan yang digantung bergoyang.
+</CONTENT>
+</ARTICLE>

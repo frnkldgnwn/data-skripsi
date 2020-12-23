@@ -1,0 +1,15 @@
+<ARTICLE>
+<DOC_ID>ARTICLE_101</DOC_ID>
+<TITLE>Pasien Sembuh di Flat Isolasi Mandiri 145 OTG</TITLE>
+<TIME>06 Oktober 2020</TIME>
+<LINK>https://covid19.go.id/p/berita/pasien-sembuh-di-flat-isolasi-mandiri-145-otg</LINK>
+<CONTENT>
+
+Tower 4 dan Tower 5 Flat Isolasi Mandiri yang disiapkan pemerintah bagi warga yang tidak memiliki tempat untuk menjalankan isolasi mandiri memiliki tingkat kesembuhan sebanyak 145 pasien berdasarkan data pada hari Selasa 6 Oktober 2020 hingga pukul 18.00 WIB.
+Tower 4 dan Tower 5 total terisi 1.564 pasien dari kapasitas huni 3.116 tempat tidur. Data pada pagi hari tadi dua tower isolasi mandiri itu terisi 1.709, artinya 145 pasien itu sudah pulang ke rumah alias sembuh. Rinciannya Tower 4 tersedia 1.215 tempat tidur (79%) dan Tower 5 tersedia 337 tempat tidur (21%).
+Di Tower 6 dan Tower 7 RS Darurat COVID-19 pun naik 10 pasien. Pasien RS Darurat COVID-19 terisi 1.681 (58%) dari total hunian 2.878 pasien. Dua tower RS Darurat COVID-19 ini masih tersedia 1.197 tempat tidur (42%), rinciannya Tower 6 tersedia 743 tempat tidur (57%) dari kapasitas huni 1.300 tempat tidur. Sedangkan Tower 7 tersedia 640 tempat tidur (41%) dari total huni 1.578 tempat tidur.
+Tower 8 Flat Isolasi Mandiri yang dikelola Kementerian Kesehatan tersedia 1.245 tempat tidur (80%) dari kapasitas 1.548 tempat tidur. Tower isolasi mandiri ini terisi 303 pasien (20%).
+Untuk Tower 9 Karantina Mandiri Pekerja Migran tersedia 1.976 tempat tidur (75%) dari kapasitas huni 2.619 pasien. Karantina Mandiri yang disiapkan pemerintah untuk Pekerja Buruh Migran (PMI) itu terisi 643 pasien (25%) pada Selasa (6/10) malam ini.
+(STPC19/AHM/DDL)
+</CONTENT>
+</ARTICLE>

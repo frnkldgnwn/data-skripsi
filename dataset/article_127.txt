@@ -1,0 +1,12 @@
+<ARTICLE>
+<DOC_ID>ARTICLE_127</DOC_ID>
+<TITLE>Analisis Data COVID-19 Indonesia (Update Per 04 Oktober 2020)</TITLE>
+<TIME>07 Oktober 2020</TIME>
+<LINK>https://covid19.go.id/p/berita/analisis-data-covid-19-indonesia-update-04-oktober-2020</LINK>
+<CONTENT>
+
+Alur dan Sumber Data
+Laporan Analisis Data COVID-19 ini disusun oleh Tim Pakar Satuan Tugas Penanganan COVID-19.
+Unduh Laporan
+</CONTENT>
+</ARTICLE>

@@ -1,0 +1,18 @@
+<ARTICLE>
+<DOC_ID>ARTICLE_157</DOC_ID>
+<TITLE>Fenomena ADE Sejauh Ini Baru terlihat pada Dengue, Tidak Ditemukan pada Kandidat Vaksin COVID-19</TITLE>
+<TIME>08 Oktober 2020</TIME>
+<LINK>https://covid19.go.id/p/berita/fenomena-ade-sejauh-ini-baru-terlihat-pada-dengue-tidak-ditemukan-pada-kandidat-vaksin-covid-19</LINK>
+<CONTENT>
+
+Prof. Dr. Kusnadi Rusmil, dr., Sp.A(K)., MM. Foto: unpad.ac.id/Tedi yusup
+"Fenomena ADE ini sudah diselidiki pada percobaan preklinis kandidat vaksin SARS-CoV-2 dan dinyatakan aman"
+Guru Besar Fakultas Kedokteran Unpad yang juga Ketua Tim Riset Uji Klinis Vaksin COVID-19 Unpad Prof. Dr. Kusnandi Rusmil, dr., Sp.A(K), M.M. membantah bahwa fenomena ADE (Antibody-dependent enhancement) juga terjadi untuk SARS-CoV-2.
+ADE yang sekarang ini sedang banyak dibicarakan, adalah fenomena yg mungkin terjadi pada pemberian antibodi (vaksin atau antibodi lain) yang berupa reaksi yang memperkuat infeksi sehingga terjadinya suatu kejadian imunopatologis yang berat.
+Menjawab hal tersebut, Profesor Kusnandi menyatakan bahwa fenomena ADE sejauh ini baru terlihat pada dengue. Keberadaan fenomena ADE pada kasus MERS, SARS, Ebola, dan HIV hanya ditemukan in silico (simulasi komputer) dan in vitro (percobaan di cawan petri laboratorium). "Tidak menggambarkan fenomena di manusia," kata Guru Besar Ilmu Kesehatan Anak itu.
+Pernyataan Kusnandi ini tentu menjadi informasi berharga bagi masyarakat. Hal penting lainnya yang dinyatakan Kusnandi adalah, pada umumnya reaksi ADE ini sudah dapat dilihat sejak pengembangan vaksin di uji preklinis pada hewan.
+"Vaksin SARS-CoV-2 dari Sinovac pada publikasinya di Science sudah menyebutkan bahwa pada uji preklinisnya tidak menemukan kejadian ADE pada hewan yang sudah divaksinasi. Bahkan hewan yang sudah divaksinasi ini mampu bertahan setelah dipaparkan dengan virus SARS-CoV-2," ujarnya.
+Ia menambahkan, dalam uji klinis yang saat ini sedang Tim Riset Uji Klinis Vaksin COVID-19 Unpad lakukan, hingga saat ini tidak ditemukan adanya efek samping yang serius yang disebabkan oleh vaksin maupun vaksinasi. Juga pada uji klinis fase 1 dan 2 sebelumnya. Bahkan di dunia, dalam penelitian Vaksin COVID-19, saat ini lebih 140 calon vaksin sudah dibuat. Sebagian di antaranya sudah tahap uji klinis pada manusia. "Hingga saat ini belum ada bukti terjadinya ADE (pada kandidat vaksin COVID-19). Kewaspadaan dan monitoring terhadap keamanan vaksin tetap harus dilakukan," ujar Kusnandi yang disampaikan dalam pernyataan tertulisnya pada Selasa, 6 Oktober 2020.
+(PEN/VNP/YOY)
+</CONTENT>
+</ARTICLE>

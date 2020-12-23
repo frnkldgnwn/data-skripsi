@@ -1,0 +1,17 @@
+<ARTICLE>
+<DOC_ID>ARTICLE_135</DOC_ID>
+<TITLE>Pagi Ini RS Darurat COVID-19 Terisi 1.597 Pasien</TITLE>
+<TIME>07 Oktober 2020</TIME>
+<LINK>https://covid19.go.id/p/berita/pagi-ini-rs-darurat-covid-19-terisi-1597-pasien</LINK>
+<CONTENT>
+
+Sebanyak 106 pasien keluar dari Wisma Atlet Kemayoran Jakarta, yang disiapkan pemerintah sejak bulan Maret 2020 sebagai tempat untuk penanganan medis warga yang terinfeksi coronavirus (COVID-19). Mereka sudah dinyatakan sembuh oleh pihak rumah sakit dan diizinkan kembali ke rumah masing-masing.
+Berdasarkan data pada hari Rabu 7 Oktober 2020 hingga pukul 06.00 WIB pasien yang diperbolehkan pulang terdiri dari 22 pasien positif tanpa gejala alias OTG yang menempati Flat Isolasi Mandiri di Tower 4 dan Tower 5 serta 84 pasien dari RS Darurat COVID-19 di Tower 6 dan Tower 7.
+Dua tower di Flat Isolasi Mandiri ini terisi 1.524 pasien (48,91%) dari total kapasitas hunian 3.116 tempat tidur. Sehingga dua tower isolasi mandiri ini masih tersedia 1.592 tempat tidur (51,09%) dan di Tower 5 tersedia 313 tempat tidur (19,94%).
+Sementara di Tower 6 dan Tower 7 terisi 1.597 pasien (55,49%) dari kapasitas hunian sebanyak 2.878 pasien. Di dua tower RS Darurat COVID-19 ini masih tersedia 1.281 tempat tidur (44,51%) dengan rincian di Tower 6 terisi 722 pasien (55,54%) dari total hunian 1.300 tempat tidur. Di Tower 7 terisi 875 pasien (55,45%) dari kapasitas hunian 1.578 pasien dan masih tersedia 703 tempat tidur (44,55%).
+Di Tower 8 terisi 317 pasien (20,48%) dari total hunian 1.548 pasien. Flat Isolasi Mandiri yang dikelola Kementerian Kesehatan ini - baru mulai beroperasi pada pekan lalu - masih tersedia 1.231 tempat tidur (79,52%).
+Sementara Tower 9 Karantina Mandiri Pekerja Migran Indonesia terisi 856 pasien (32,68%) dari total hunian 2.619 pasien. Di Karantiina Mandiri ini masih tersedia 1.763 tempat tidur (67,32%) yang terdata pada Rabu pagi ini.
+
+(STPC19/AHM/VJY)
+</CONTENT>
+</ARTICLE>
