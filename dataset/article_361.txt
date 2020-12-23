@@ -1,0 +1,18 @@
+<ARTICLE>
+<DOC_ID>ARTICLE_361</DOC_ID>
+<TITLE>Tahap-tahap Pengembangan Vaksin COVID-19 Hingga Produksi Massal</TITLE>
+<TIME>23 Oktober 2020</TIME>
+<LINK>https://covid19.go.id/p/berita/tahap-tahap-pengembangan-vaksin-covid-19-hingga-produksi-massal</LINK>
+<CONTENT>
+
+Graha BNPB Jakarta 22 Oktober 2020 - Pengembangan vaksin memiliki lima tahap sebelum memasuki masa produksi secara massal. Tahapan paling akhir dari proses panjang itu adalah tahap persetujuan dari Badan Pengawasan Obat dan Makanan (Badan POM).
+Juru Bicara Pemerintah untuk Penanganan COVID-19 Prof. Wiku Adisasmito menjelaskan alur pengembangan vaksin dari awal sampai akhir.
+Proses awal yang harus dilakukan adalah penelitian dasar. Pada saat penelitian dasar ini peneliti menelusuri mekanisme potensial berdasarkan ilmu yang biasa dipakai (science and bio medical). Dalam penelitian dasar ini hanya fokus meneliti virus, sel-sel yang terkait virus tersebut, dan sel-sel yang diinveksi virus ini dan diperbanyak. Tujuannya untuk melihat sel-sel yang diperbanyak bagaiamana reaksinya dan diekstraksi virusnya dalam jumlah lebih banyak. Dan pada proses ini biasanya sudah dimulai dilakukan pembuatan vaksin dalam jumlah terbatas.
+Kemudian dilakukan uji pre-klinis untuk memastikan bahwa vaksin yang dibuat itu diuji dulu dalam sel kemudian dilanjutkan pada hewan untuk melakukan percobaan. Itu sering disebut studi envitro dan envivo.
+Tentunya dalam uji ini, untuk mengetahui keamanan apabila diujikan pada manusia. Pre-klinis itu untuk memastikan vaksin ini aman apabila diujikan pada manusia.
+Lalu tahap uji klinis yang memiliki tiga fase. Fase satu memastikan keamanan dosis pada manusia serta menilai farmaco kinetik dan farmaco dinamik. Untuk menentukan dosis aman pada manusia. Fase dua melakukan studi pada manusia biasa dengan jumlah sampel 100 sampai 500 orang. Studi ini ingin memastikan dan menilai keamanan pada manusia dapat tercapai dan menilai efektivitas serta menentukan rentan dosis optimal dan frekuensi pemberian dosis paling optimal dan efek samping jangka pendek. Setelah lolos uji klinis masuk fase tiga dengan uji sampel 1.000 orang sampai 5.000 orang untuk memastikan keamanan, efektivitas, keuntungan yang melebihi risiko penggunaan pada populasi yang lebih besar. Dan apabila uji klinis fase tiga ini tuntas dan hasil memuaskan maka akan masuk fase persetujuan.
+"Kita pastikan mendapatkan persetujuan dari Badan Pengawasan Obat dan Makanan (Badan POM) semua proses uji ini sudah berjalan dengan baik maka bisa masuk ke dalam proses persetujuan yang dilanjutkan dengan pembuatan vaksin dalam jumlah besar," papar Prof. Wiku Adisasmito dalam konferensi pers virtual "Perkembangan Penanganan COVID-19 dan Tanya Jawab Media" di Media Center Satgas Penanganan COVID-19 Graha BNPB Jakarta pada Kamis (22/10) sore.
+Seperti diketahui tahapan vaksin COVID-19 saat ini sudah memasuki uji klinis fase tiga sehingga tinggal satu tahap lagi untuk sampai pada tahap produksi secara massal.
+(STPC19/AHM/KRS)
+</CONTENT>
+</ARTICLE>

@@ -1,0 +1,24 @@
+<ARTICLE>
+<DOC_ID>ARTICLE_385</DOC_ID>
+<TITLE>Satgas Luncurkan Inovasi Tingkatkan Kedisiplinan Protokol Kesehatan</TITLE>
+<TIME>28 Oktober 2020</TIME>
+<LINK>https://covid19.go.id/p/berita/satgas-luncurkan-inovasi-tingkatkan-kedisiplinan-protokol-kesehatan</LINK>
+<CONTENT>
+
+JAKARTA - Satgas Penanganan COVID-19 meluncurkan sebuah inovasi baru dalam penanganan pandemi COVID-19 di Indonesia, pada Selasa (27/10/2020) saat memberikan keterangan pers perkembangan penanganan COVID-19 yang disiarkan kanal YouTube Sekretariat Presiden.
+Koordinasi Tim Pakar dan Juru Bicara Satgas Penanganan COVID-19 Prof Wiku Adisasmito menyebut inovasi dari bidang Data dan IT dan Tim Pakar Satgas Penanganan COVID-19. Sistem ini dikenal sebagai "Sistem Bersatu Lawan COVID-19 (BLC) Monitoring Perubahan Perilaku".
+Sistem ini dirancang untuk menghasilkan data yang realtime, terintegrasi, sistematis, interoperabilitas, dan sistem yang melibatkan koordinasi antar lintas sektor. "Melalui sistem ini, petugas di lapangan dapat memasukkan berbagai data terkait dengan pelanggaran protokol kesehatan yang dilakukan masyarakat di lokasi-lokasi pengawasan secara real time," kata Wiku.
+Data yang dimasukkan para petugas di lapangan, akan diolah menjadi data statistik untuk mengetahui lokasi atau area terbanyak dengan lokasi geografisnya, dan menemukan pelanggaran protokol kesehatan. Data statistik itu nantinya dapat digunakan untuk mengoptimalisasi pelaksanaan operasi yustisi.
+Wiku menjabarkan, salah satu fitur yang terdapat dalam sistem BLC Perubahan Perilaku ialah kuesioner untuk melaporkan kerumunan yang terjadi dan juga memonitor kepatuhan individu dan institusi terhadap protokol kesehatan. Termasuk dapat digunakan memetakan lokasi dan institusi yang perlu meningkatkan kepatuhan terhadap protokol kesehatan.
+Hasil pelaporan monitoring dalam sistem itu, berbentuk sebuah dashboard nasional yang berbentuk alat navigasi. Saat ini katanya sudah berjalan selama 4 minggu, dan sudah ada 18.960.212 orang yang dipantu. Juga ada 3.480.380 titik pantau di seluruh Indonesia dan ada 485 kabupaten/kota yang dipantau termasuk seluruh provinsi di Indonesia.
+"Data yang dihasilkan bersifat realtime, dan akan terus diperbarui berdasarkan laporan yang masuk, melalui dashboard ini pula dapat diketahui jumlah orang yang dipantau, titik pemantauan, jumlah kabupaten/kota serta provinsi yang dipantau," papar Wiku.
+Melalui dashboard itu juga dapat dipetakan wilayah di Indonesia yang perlu ditingkatkan kedisiplinan terhadap protokol kesehatan. Data-data itu akan diolah didalam aplikasi dan dapat digunakan untuk menentukan kebijakan mendorong perubahan perilaku masyarakat di tengah pandemi COVID-19.
+Dalam mengoperasikan sistem ini, Satgas Penanganan COVID-19 mempertimbangkan aspek kemitraan atau pentahelix. Wiku mengakui hal itu dikarenakan pihaknya tidak dapat bekerja sendiri dalam memerangi pandemi. Dibutuhkan kerjasama berbagai pihak termasuk kalangan masyarakat.
+Saat ini sudah ada kerjasama dengan TNI yang menurunkan lebih dari 95.392 personil, Polri menurunkan 196.668 personil, duta perubahan perilaku sebanyak 17.199 orang yang terdiri dari PLKB atau petugas lapngan Keluarga Berencana dari BKKBN, mahasiswa dan dosen, Koalisi Kependudukan Indonesia, Koalisi Muda Kependudukan dan Sat Pol PP. Para petugas ini di lapangan melaporkan setiap detik kepada sistem ini.
+Untuk itu ia memberikan apresiasi setinggi-tingginya kepada para pihak yang sudah terlibat. Dan sistem ini kedepannya dapat menjadi alat navigasi sebagai upaya lanjutan perubahan perilaku dan arahan strategis komunikasi publik kedepannya. "Ingat, tidak ada toleransi atas ketidakpatuhan terhadap protokol kesehatan. Jika sudah ada bukti terkait pelanggaran harus ditindak dengan tegas," kata Wiku.
+Jakarta 27 Oktober 2020
+Tim Komunikasi Komite Penanganan Corona Virus Disease 2019 (COVID-19) dan Pemulihan Ekonomi Nasional
+
+(ISTA/QQ/VJY)
+</CONTENT>
+</ARTICLE>

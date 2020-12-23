@@ -1,0 +1,21 @@
+<ARTICLE>
+<DOC_ID>ARTICLE_391</DOC_ID>
+<TITLE>3,8 Juta Titik Terpantau Aplikasi Monitoring Perubahan Perilaku</TITLE>
+<TIME>29 Oktober 2020</TIME>
+<LINK>https://covid19.go.id/p/berita/38-juta-titik-terpantau-aplikasi-monitoring-perubahan-perilaku</LINK>
+<CONTENT>
+
+Graha BNPB Jakarta 29 Oktober 2020 - Sistem Aplikasi Monitoring Perubahan Perilaku sudah diterapkan di 3,8 juta titik yang tersebar di 494 Kabupaten/Kota di 34 provinsi seluruh Indonesia.
+Aplikasi yang memotret titik kerumunan ini sudah diluncurkan pada pertengahan September 2020 dengan melibatkan TNI, Polri, Satpol PP, dan Duta Perubahan Perilaku.
+Ketua Bidang Data dan Teknologi Informasi Dr. Dewi Nur Aisyah mengatakan sistem aplikasi inimelihat titik kerumunan orang yang dilaporkan oleh petugas di lapangan. Selain itu data masuk di dashboard tersebut dikumpulkan yang kemudian dilakukan analisa.
+Petugas melaporkan kerumunan dan memasukkan data sekaligus foto. Misalnya kerumunan di pasar, mall, tempat wisata, dan tempat hiburan untuk memantau kepatuhan masyarakat yang rawan kerumunan.
+"Aplikasi didesain khusus agar petugas lapangan dari TNI, Polri, Satpol PP, dan Duta Perubahan Perilaku langsung memantau. Para petugas tersebut langsung entry angka, setelah itu dianalisis, dan keluar hasil," ujar Dr. Dewi Nur Aisyah dalam talkshow "COVID dalam Angka: Aplikasi Monitoring Perubahan Perilaku" di Media Center Satgas Penanganan COVID-19 Graha BNPB Jakarta pada Kamis (29/10) pagi.
+Ketua Bidang Perubahan Perilaku Satgas Penanganan COVID-19 Dr. Sonny Harry B. Harmadi mengatakan Duta Perubahan Perilaku yang terbentuk sejak September 2020 berjumlah 17.223 orang dari rencana sebanyak 28.000 orang.
+Petugas di lapangan melakukan sosialisasi perubahan perilaku dengan target spesifik untuk perubahan. Adapun target yang disasar adalah petugas lapangan penyuluh KB, pendamping desa, dan juga datang door to door ke rumah target keluarga.
+Sementara Duta Perubahan Perilaku, yang merupakan mahasiswa-mahasiswi, bertugas mendatangi tokoh-tokoh masyarakat, komunitas, pesantren, kantor, dan rumah makan.
+"Mereka juga melaporkan hasil. Mereka juga harus jadi teladan. Mereka juga monitor kerumunan," jelas Dr. Sonny.
+Sistem ini, katanya, sudah menyatu (merging) dengan program perilaku pada Operasi Yustisi Satpol PP dan Kemendagri terkait laporan kegiatan pilkada akhir tahun ini.
+"Aplikasi ini sementara baru sebatas untuk penggunaan android. Tapi nanti kita akan berlakukan ke yang lain," jelas Dr. Sonny.
+(STPC19/AHM/MJS)
+</CONTENT>
+</ARTICLE>

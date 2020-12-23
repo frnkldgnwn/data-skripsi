@@ -1,0 +1,28 @@
+<ARTICLE>
+<DOC_ID>ARTICLE_340</DOC_ID>
+<TITLE>Satgas Minta Masyarakat Cermat Pilah Informasi Terkait Vaksin COVID-19</TITLE>
+<TIME>22 Oktober 2020</TIME>
+<LINK>https://covid19.go.id/p/berita/satgas-minta-masyarakat-cermat-pilah-informasi-terkait-vaksin-covid-19</LINK>
+<CONTENT>
+
+Foto: Marji - Medcom
+JAKARTA - Satgas Penanganan COVID-19 berharap masyarakat tidak berspekulasi terkait uji klinis dan berkembangnya informasi tidak resmi terkait harga vaksin COVID-19. Koordinator Tim Pakar dan Juru Bicara Satgas Penanganan COVID-19 Prof Wiku Adisasmito meminta masyarakat bersabar dan cermat dalam memilah informasi perkembangan penanganan COVID-19.
+"Jadi pemberitahun aspek vaksinasi yang bersinggungan dengan masyarakat akan didiseminasikan secara transparan, secara bertahap, sehingga jika belum diumumkan secara gamblang oleh pemerintah, maka hal tersebut masih dalam tahap perumusan. Kami ingin memastikan bahwa informasi publik yang disampaikan itu betul-betul akurat," ujar Wiku menjawab pertanyaan media dalam keterangan pers perkembangan penanganan COVID-19 yang disiarkan kanal YouTube Sekretariat Presiden, Kamis (22/10/2020).
+Tentang perkembangan vaksin terkini, dalam keterangan persnya, Wiku menyampaikan pemerintah masih menyelesaikan tahapan pengembangan uji klinis fase 3 yang dilakukan di Universitas Padjajaran di Bandung, Jawa Barat. Dalam pengembangan vaksin, Wiku menjelaskan ada beberapa tahapan yang harus dilalui.
+Alur pertama pengembangan vaksin ialah melakukan penelitian dasar. Dimana ilmuwan menelusuri mekanisme potensial berdasarkan ilmu sains dan biomedis. Dalam penelitian dasar para ilmuwan meneliti tentang virusnya, sel-sel terkait virus, sel-sel yang diinfeksi virus tersebut kemudian diperbanyak. Sel-sel yang diperbanyak ini akan diteliti dan dilihat bagaimana reaksinya. Selanjutnya diekstraksi virusnya, dalam jumlah yang lebih banyak. "Dalam tahap ini, biasanya sudah mulai membuat vaksin dalam jumlah yang terbatas," lanjutnya.
+Tahap kedua ialah Uji Praklinik. Tahap ini untuk memastikan bahwa vaksin yang dibuat dilakukan pengujian terhadap sel dan dilanjutkan dengan hewan percobaan. Tahapan ini kata Wiku sering disebut studi In Vitro dan In Vivo. Tujuannya untuk mengetahui keamanan vaksin sebelum diujicobakan kepada manusia. "Proses ini kita ingin memastikan bahwa sel-sel atau badan sel yang dimatikan dari virus ini diambil dan dimodifikasi supaya bisa menjadi bahan vaksin yang tepat sebelum diuji pada uji Preklinis," kata Wiku.
+Setelah uji Praklinik berhasil, maka dilanjutkan uji klinis fase 1. Para ilmuwan memastikan sampel vaksin minimal 100 vaksin, yang diujicobakan pada manusia untuk memastikan keamanan pada manusia. Serta menilai farmakokinetik dan farmakodinamik. Dalam uji klinis fase 1 juga untuk menentukan rentang dosis aman untuk manusia.
+Selanjutnya masuk uji klinis fase 2. Fase ini menggunakan sampel vaksin antara 100 sampai dengan 500 orang. Dalam fase ini juga, para ilmuwan menilai dan memastikan bahwa keamanan pada manusia dapat tercapai dan menilai efektivitasnya. Dan kembali menentukan rentang dosis optimalnya dan menentukan frekuensi pemberian dosis paling optimal dan menilai efek samping jangka pendek.
+Setelah lulus fase 2, maka masuk uji klinis fase 3. Dimana fase ini melakukan uji coba dengan melibatkan sampel minimal 1000 - 5000 orang untuk menilai dan memastikan keamanan, efektifitas dan manfaat yang didapatkan melebihi risiko penggunaan pada populasi yang lebih besar.
+"Apabila fase 3 ini tuntas dan hasilnya memuaskan. Maka akan masuk fase berikutnya, yaitu fase persetujuan. Fase persetujuan ini kita pastikan vaksin mendapatkan persetujuan dari lembaga pengawas obat dan makanan serta kesehatan," jelas Wiku.
+Apabila semua tahapan tersebut berjalan dengan baik, maka bisa masuk ke tahapan produksi vaksin dalam jumlah yang besar.
+Terakhir, ia juga menginformasikan tentang sejarah perkembangan virus corona yang sudah ada sejak dekade tahun 1960-an. Sampai saat ini, virus tersebut sudah tercatat sebanyak 7 jenis. Jenis terbaru yang ditemukan ialah jenis virus Sars-Cov2 yang menyebabkan COVID-19.
+Adapun COVID-19 merupakan infeksi yang baru dan saat ini para ahli dan ilmuwan di dunia sedang melakukan riset untuk mencoba mengenali karakteristik virus penyebab COVID-19 yang digunakan sebagai dasar pengembangan vaksin.
+Proses pengadaan vaksin di Indonesia dilakukan melalui tahapan yang kompleks. Melibatkan berbagai kementerian, maupun lembaga negara maupun BUMN. Presiden Joko Widodo pun telah mengeluarkan peraturan pemerintah yang mengatur pengadaan dan pelaksanaan vaksinasi COVID-19.
+"Penting untuk diketahui, sampai saat ini belum ada negara di dunia yang sudah memproduksi vaksin COVID-19 secara massal. Indonesia terus melakukan upaya pengadaan vaksin ataupun memproduksi vaksin secara mandiri. Proses pengembangan vaksin maupun vaksinasi perlu dilakukan secara hati-hati, namun tetap tanggap menghadapi perubahan yang sangat dinamis di masa pandemi," jelas Wiku.
+Sekedar mengetahui, saat ini ada beberapa kandidat vaksin yang sedang dikembangkan pemerintah, termasuk vaksin Merah Putih yang dikembangkan oleh Kementerian Riset dan Teknologi, Badan Riset dan Inovasi Nasional serta Lembaga Biologi Molekuler Eijkman. Kandidat vaksin hasil kolaborasi dengan kerjasama pihak luar negeri, diantaranya Bio Farma dengan Sinovac dari Tiongkok, Kimia Farma dengan G42 dari Uni Emirat Arab, dan Kalbe Farma dengan Genexine dari Korea Selatan.
+Jakarta, 22 Oktober 2020
+Tim Komunikasi Komite Penanganan Corona Virus Disease 2019 (COVID-19) dan Pemulihan Ekonomi Nasional
+(ISTA/QQ/MJS)
+</CONTENT>
+</ARTICLE>
