@@ -1,0 +1,20 @@
+<ARTICLE>
+<DOC_ID>ARTICLE_202</DOC_ID>
+<TITLE>Pasien Isolasi Harian dan ICU di 98 RS Rujukan COVID-19 DKI Jakarta Turun 22%</TITLE>
+<TIME>10 Oktober 2020</TIME>
+<LINK>https://covid19.go.id/p/berita/pasien-isolasi-harian-dan-icu-di-98-rs-rujukan-covid-19-dki-jakarta-turun-22</LINK>
+<CONTENT>
+
+Persentase keterpakaian tempat tidur pasien Isolasi Harian dan ICU di 98 Rumah Sakit Rujukan COVID-19 DKI Jakarta cenderung menurun.
+Berdasarkan data dari 21 September 2020 sampai 10 Oktober 2020 trend persentase keterpakaian tempat tidur Isolasi Harian mengalami penurunan sekitar22%. Artinya jumlah pasien COVID-19 di ruang Isolasi Harian dan ICU turun.
+Puncak keterpakaian tempat tidur pasien COVID-19 tanpa gejala atau OTG pada tanggal 21 September 2020 mencapai 85% dan berangsur-angsur menurun hingga tanggal 10 Oktober 2020 berada di titik 66%. Penurunan keterpakaian tempat tidur selama 20 hari terakhir itu terjadi secara bertahap.
+Pada awal September 2020 trend keterpakaian tempat tidur berada di angka 72%. Persentase ini terus merangkak naik secara bertahap ke78% pada tanggal 16 September hingga dua hari setelahnya menembus 83%.
+Sementara keterpakaian tempat tidur di ruangan ICU Harian pun mengalami penurunan 19%. Keterpakaian tempat tidur tertinggi pada tanggal 6 September mencapai 83%. Angka ini terus menurun secara bertahap hingga 10 Oktober di angka 67%.
+Jumlah pasien ICU sempat turun di tanggal 12 September atau sepekan kemudian di angka 78%, namun keesokan harinya kembali ke posisi semula 83%. Pada tanggal 25 September keterpakaian tempat tidur mencapai 70%.
+Data hari ini per 10 Oktober 2020, keterpakaian tempat tidur di 98 RS Rujukan DKI Jakarta terisi 4.306 pasien Isolasi dan ICU (66%) dari kapasitas hunian 6.485 tempat tidur.
+Dengan rincian 3.792 pasien isolasi (66%) dari total hunian 5719 tempat tidur. Sehingga Isolasi masih tersedia 1.927 tempat tidur (34%).
+Sedangkan ICU terisi 514 (67%) dari kapasitas hunian 766 tempat tidur. Di ruang ICU masih tersedia 252 (33%) tempat tidur.
+Unduh Data Bed 98 Per 10 Oktober 2020
+(STPC19/AHM/KRS)
+</CONTENT>
+</ARTICLE>

@@ -1,0 +1,18 @@
+<ARTICLE>
+<DOC_ID>ARTICLE_292</DOC_ID>
+<TITLE>Lembaga Pendidikan Ini Sudah Terapkan Digitalisasi Sebelum Pandemi</TITLE>
+<TIME>14 Oktober 2020</TIME>
+<LINK>https://news.detik.com/berita/d-5214003/lembaga-pendidikan-ini-sudah-terapkan-digitalisasi-sebelum-pandemi?single=1</LINK>
+<CONTENT>
+
+Ketua Pengurus Yayasan Al Muslim & Salman Al Farisi Gerry Nasution membagikan kisah sekolahnya yang telah mengintegrasikan teknologi di dalam pendidikannya. Menurutnya, awal mula inovasi pendidikan tersebut berasal dari perayaan ulang tahun ke-40 sekolahnya pada tahun 2018.
+"Ini yang men-trigger kita dari tahun 2018. Sehingga kita juga mencoba melangkah ke depannya, di mana kita mencoba untuk merubah environment pembelajaran yang ada di sekolah kita. Yang tadinya classical, menjadi semi digital yang kita kasih nama yaitu Digislamic System," ujar Gerry, dalam webinar 'Samsung Mobile Business Insight: The Next Normal Reshaping the Future Education', Rabu (14/10/2020).
+Gerry mengatakan perubahan karakter anak-anak dalam menyerap informasi juga menjadi salah satu alasan transformasi tersebut dilakukan. Pembelajaran yang tadinya satu arah pun sudah mulai kritis, serta instant learning juga sudah mulai berkembang.
+"Kompetensi menjadi lebih penting daripada gelar akademis. The rise of the OC atau online course, itu juga menjadi ancaman bagi lembaga pendidikan, seperti lembaga pendidikan menengah atau pun tinggi," ungkapnya.
+Adapun terkait dengan Digislamic System, Gerry mengatakan sistem itu adalah suatu platform end to end dan masih dalam tahap pengembangan oleh sekolahnya hingga saat ini. "Platform-nya cukup komprehensif, platform tersebut sudah meng-cover kira-kira 8 modul dari anak masuk sampai dia jadi alumni. Di dalamnya kira-kira ada 78 sub modules dan sampai 71 user types. Semua bisa masuk ke dalam environment yang kita bangun," jelasnya.
+Menurut Gerry, dalam mengintegrasikan teknologi di sekolahnya ada tiga poin yang perlu disadari, yaitu data literacy, technology literacy, dan human literacy.
+"Dalam technology literacy ini menjadi sesuatu yang penting, untuk kami di sekolah dari segi jaringannya. Kami disekolah menggunakan full fiber optic semuanya dengan high speed internet coverage Alhamdullilah sudah tercukupi. Dari sisi perangkat lunak, kurang lebih kita pergunakan juga beberapa vendoro. Walaupun demikian kita juga develop sendiri platform-nya dengan cloud base platform yang bisa mengakomodir hal tersebut," ujarnya.
+Selain itu, Gerry mengatakan juga telah melakukan kerja sama dengan perusahaan seperti Samsung. Menurutnya, seluruh siswa juga sudah diberikan perangkat tablet Samsung untuk digunakan dalam pembelajaran.
+"Samsung Tab tersebut kita juga harus inject dengan beragam aplikasi. Ada kurang lebih 14 aplikasi yang harus kita masukkan, tetapi semuanya ter-cover dengan Samsung Knox. Jadi ini memang satu bagian lagi yang saya rasa menjadi esensial penting untuk kita, dengan selalu menjaga internet sehat yang bisa dipergunakan oleh siswa-siswa kita di sekolah," pungkasnya.
+</CONTENT>
+</ARTICLE>

@@ -1,0 +1,18 @@
+<ARTICLE>
+<DOC_ID>ARTICLE_245</DOC_ID>
+<TITLE>Indonesia Kembangkan Dua Alat "Screening" Covid-19 yang Lebih Akurat</TITLE>
+<TIME>12 Oktober 2020</TIME>
+<LINK>https://nasional.kompas.com/read/2020/10/12/23370811/indonesia-kembangkan-dua-alat-screening-covid-19-yang-lebih-akurat</LINK>
+<CONTENT>
+
+JAKARTA, KOMPAS.com - Menteri Riset dan Teknologi  Bambang Brodjonegoro mengatakan, saat ini Indonesia tengah mengembangkan dua alat pemindai (screening)  Covid-19 yang lebih akurat dibandingkan tes cepat (rapid test).
+Selain untuk screening, dua alat ini juga bisa menjadi alternatif tes Covid-19 selain tes usap (swab test) dengan metode Reverse Transcription-Polymerase Chain Reaction (RT-PCR).
+ "Solusi untuk mengurangi ketergantungan terhadap PCR test, dan juga solusi untuk screening yang lebih baik, yaitu GeNose yang dihasilkan oleh Universitas Gadjah Mada (UGM). Dimana GeNose ini intinya mendeteksi keberadan virus  covid-19 dengan menggunakan hembusan napas," kata Bambang usai rapat secara virtual bersama Presiden Joko Widodo, Senin (12/10/2020).
+"Dan pendekatan ini bisa menghasilkan upaya screening dan juga deteksi yang lebih cepat. Tidak sampai dua menit setelah kita menyimpan hembusan nafas kita," ujar Bambang.
+Bambang menambahkan, tingkat akurasi pendeteksi  virus corona pada GeNode mencapai 97 persen saat menjalani uji klinis di rumah sakit di Yogyakarta.
+Ia mengatakan, Kementerian Riset dan Teknologi akan terus bekerja sama dengan UGM untuk melakukkan uji klinis GeNose di tempat lain. Jika akurasinya terus mendekati 100 persen, Bambang optimistis GeNose bisa menjadi alternatif selain tes usap.
+ Kemudian ada pula Reverse Transcription loop-mediated isothermal amplification (RT-LAMP) yang dikembangkan Lembaga Ilmu Pengetahuan Indonesia (LIPI).
+ "Nantinya ini bisa menjadi rapid swab test. Dimana swab test yang biasanya memakan waktu lama dan membutuhkan laboratorium, bisa dilakukan dengan waktu yang lebih cepat, di bawah satu jam dan tanpa menggunakan laboratorium BSL (Bio Security Level) 2," kata ujar Bambang.
+ "Dan kemudian rapid swab test ini tentunya juga bisa menjadi solusi bagi rumitnya testing yang menggunakan PCR ya. Jauh lebih cepat, lebih murah dan juga tingkat akurasinya sangat bisa dipertanggungjawabkan," lanjut dia.
+</CONTENT>
+</ARTICLE>
